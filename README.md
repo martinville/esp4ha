@@ -14,7 +14,7 @@ https://eskomsepush.gumroad.com/l/api
 From the "Settings" menu item in Home Asstant's UI go to "Add-ons". In the bottom right-hand corner click "ADD-ON STORE". The in the right-hand top corner click the three dots and select "Repositories".
 Paste the following repository link and click add then close https://github.com/martinville/esp4ha
 
-![](https://github.com/martinville/solarsynkv2/blob/main/addrepo.png)
+![](https://github.com/martinville/esp4ha/blob/main/repo.png)
 
 
 Simply populate the configuration tab with your homeassistant details after installing this integration.
