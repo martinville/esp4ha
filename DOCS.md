@@ -3,7 +3,9 @@
 # EskomSePush Integration for Homeassistant
 
 ## What it does
+A simple no nag home assistant add-on that doesnt need any extra components besides an API key.
 This integration is used to download daily loadshedding schedules and loadshedding stages from the eskomsepush API.
+
 
 Before you can use this integration you need to obtain an API key by subscribing to the following link.
 https://eskomsepush.gumroad.com/l/api
@@ -28,6 +30,11 @@ After installing this add-on make sure you enter all the required information on
 Click your profile picture situated in the bottom left of your HA user-interface. Scroll all the way to the bottom and create a long-lived token. The token name is not important for the solarsynk add-on but obviously the token key is. Make sure you copy it and keep it for use later on.
 
 ![](https://github.com/martinville/solarsynkv2/blob/main/longlivetoken.png)
+
+### Automation
+The following entities will be populated and they can be used to create automation.
+
+![](https://github.com/martinville/esp4ha/blob/main/entities.png)
 
 
 
