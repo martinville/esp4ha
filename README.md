@@ -3,6 +3,7 @@
 # EskomSePush Integration for Homeassistant
 
 ## What it does
+A simple no nag home assistant add-on that doesnt need any extra components besides an API key. 
 This integration is used to download daily loadshedding schedules and loadshedding stages from the eskomsepush API.
 
 Before you can use this integration you need to obtain an API key by subscribing to the following link.
