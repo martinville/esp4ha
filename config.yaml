@@ -3,7 +3,7 @@ name: ESP4HA
 version: "1.1.0"
 slug: esp4ha
 description: EskomSePush for Homeassistant
-url: "https://github.com/home-assistant/addons-example/tree/main/example"
+url: "https://github.com/martinville/esp4ha"
 arch:
   - armhf
   - armv7
@@ -13,10 +13,10 @@ arch:
 init: false
 
 options:
-  ESP_API_KEY: "D1A16BDC-341C4F37-9CBDDD05-9B90E845"
-  YOUR_AREAD_ID: "tshwane-16-doornpoort"
-  HA_LongLiveToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIxZDkyNThkYjYxNWI0NTk5YTFlODdjMDk3OTNmNGVkZSIsImlhdCI6MTcwNDQ3Mjk1NiwiZXhwIjoyMDE5ODMyOTU2fQ.Ru5jxXuoUqD09lC84hgXMOe0FkIS5dmsMES-ECFezbs"
-  Home_Assistant_IP: "192.168.1.8"
+  ESP_API_KEY: ""
+  YOUR_AREAD_ID: ""
+  HA_LongLiveToken: ""
+  Home_Assistant_IP: "https://github.com/martinville/esp4ha"
   HTTP_Connect_Type: "http"
   Home_Assistant_PORT: "8123"
   Refresh_rate: 1800  
