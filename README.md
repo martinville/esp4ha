@@ -16,8 +16,10 @@ Paste the following repository link and click add then close https://github.com/
 
 ![](https://github.com/martinville/esp4ha/blob/main/repo.png)
 
+Refresh the browser. Right at the bottom you should now see the "SolarSynk" add-on. Simply click it then click "Install"
 
-Simply populate the configuration tab with your homeassistant details after installing this integration.
+### Configure the integration
+After installing this add-on make sure you enter all the required information on the configuration page.
 
 ![](https://github.com/martinville/esp4ha/blob/main/config.png)
 
