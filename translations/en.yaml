@@ -1,0 +1,25 @@
+configuration:
+  ESP_API_KEY:
+    name: EskomSePush API Key
+    description: Register here --> https://eskomsepush.gumroad.com/l/api to get an API-Key.
+  YOUR_AREAD_ID:
+    name: Your Area ID
+    description: Search your area and enter the ID string of your area.   
+  HA_LongLiveToken:
+    name: Homeassistant Long Live Token
+    description: Generate a long live token from the Homeassistant web-ui in the menu "Your Profile" -> Scroll to the bottom and click "CREATE TOKEN" 
+  Home_Assistant_IP:
+    name: Homeassistant Hostname or IP Address
+    description: Homeassistant ip or hostname. Please do not use a loopback address such as localhost, 127.0.0.1. And do not prefix the address with http:// or https://
+  HTTP_Connect_Type:
+    name: Enable HTTPS
+    description: If your Homeassistant server was setup to use HTTPS then you need to enter https else just leave it as http.    
+  Home_Assistant_PORT:
+    name: Homeassistant server port number.
+    description: In most cases the port number is 8123. Leave the default as is if you did not change this.  
+  Refresh_rate:
+    name: Script Refresh Rate
+    description: This script will attempt to fetch loadshedding data based on this interval in seconds. 1800 = every 30 minutes.
+
+
+
