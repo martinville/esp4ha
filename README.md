@@ -30,7 +30,7 @@ Click your profile picture situated in the bottom left of your HA user-interface
 ![](https://github.com/martinville/solarsynkv2/blob/main/longlivetoken.png)
 
 ### Automation
-The following entities will be populated which can be used to create automation.
+The following entities will be populated and they can be used to create automation.
 
 ![](https://github.com/martinville/esp4ha/blob/main/entities.png)
 
